@@ -7,6 +7,8 @@ A Python tool to perform deep learning experiments on various hyperspectral data
 This toolbox was used for our review paper in Geoscience and Remote Sensing Magazine :
 > N. Audebert, B. Le Saux and S. Lefevre, "*Deep Learning for Classification of Hyperspectral Data: A Comparative Review*," in IEEE Geoscience and Remote Sensing Magazine, vol. 7, no. 2, pp. 159-173, June 2019.
 
+rice 数据集链接：链接: https://pan.baidu.com/s/13BJYk6DXSP5uCs0AWlQ3xg 提取码: x7h6 
+
 Bibtex format :
 
 > @article{8738045,
